@@ -1,11 +1,11 @@
 <?php
 
-namespace holyzhang;
+namespace holyzhang\test;
  
 class Test
 {
   public static function hello()
   {
-    echo "Hello, Composer!", PHP_EOL;
+    echo "Hello, Holyzhang Composer!", PHP_EOL;
   }
 }

@@ -1,1 +1,1 @@
-#holyzhang-composer-test
+#composer require "holyzhang/test @dev"

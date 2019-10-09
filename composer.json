@@ -1,6 +1,6 @@
 {
     "name": "holyzhang/test",
-    "description": "test",
+    "description": "hello word!",
     "authors": [
         {
             "name": "holyzhang",
@@ -13,7 +13,10 @@
     },
     "autoload": {
         "psr-4": {
-            "holyzhang\\test\\": "src/"
-        }
+            "holyzhang\\test\\": "src"
+        },
+        "files": [
+            "src/helper.php"
+        ]
     }
 }
