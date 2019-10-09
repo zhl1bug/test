@@ -16,7 +16,7 @@
             "holyzhang\\test\\": "src"
         },
         "files": [
-            "src/helper.php"
+            "src/Test.php"
         ]
     }
 }

@@ -6,6 +6,6 @@ class Test
 {
   public static function hello()
   {
-    echo "Hello, Holyzhang Composer!", PHP_EOL;
+    return "Hello, Holyzhang Composer!".PHP_EOL;
   }
 }
